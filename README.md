@@ -1,6 +1,7 @@
 ### Hi there Ethermore👋
-Initial Template Design for Ethermore
-https://github.com/ethermore/ethermore
+### 🔭 Initial Template Design for Ethermore
+### ⚡ https://github.com/ethermore/ethermore
+### ⚡ https://ethermore.xyz/
 
 <!--
 **ethermore/ethermore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
